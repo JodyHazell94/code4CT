@@ -33,11 +33,11 @@ Rebuilding the Code4CT website and remodeling it for a more sleek and more moder
  
 ## Links and Folders:
   - Code4Ct    
-    - css
-    - images
-    - js
-    - sass:
-      -partials
+      - css
+      - images
+      - js
+      - sass:
+        -partials
 
 ## Live Link:
  Rebuild Live link: 
